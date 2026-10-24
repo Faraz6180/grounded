@@ -1,7 +1,7 @@
 # Grounded...
 Free, offline reliability checks for RAG systems and simple agents. No API keys, no dependencies.
 
-    pip install .
+    pip install 
 ```python
 from grounded import check
 r = check(question="When was the tower built?",
