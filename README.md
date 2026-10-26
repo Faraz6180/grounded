@@ -1,5 +1,5 @@
 # Grounded
-Free, offline reliability checks for RAG systems and simple agents. No API keys, no dependencies
+Free, offline reliability checks for RAG systems and simple agents. No API keys, no dependencies.
 
     pip install 
 ```python
